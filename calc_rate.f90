@@ -3,6 +3,8 @@ module calc_rate_m
 	use derivfx_m
 	implicit none
 	
+	!############!
+	
 	private
 	
 	type :: ioniz_t

@@ -11,7 +11,7 @@ program main
 	type(ioniz_t) :: ionrate
 	
 	integer :: i
-	
+	!############
 !~ 	call ionrate%read_para()
 !~ 	call ionrate%read_ntmax()
 !~ 	call ionrate%get_timestep()
